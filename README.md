@@ -15,7 +15,7 @@ Follow these steps to install and run the Riddleverse project:
 ### 1. Clone the repository
 First, clone the repository to your local machine:
 ```bash
-git clone <repository_url>
+git clone https://github.com/aginasb2109/Riddleverse.git
 ```
 
 ### 2. Install dependencies
